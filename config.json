@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchprocess",
+        "uuid": 4488620,
+        "checksum": "13ili3"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
